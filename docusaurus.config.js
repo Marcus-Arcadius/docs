@@ -56,10 +56,10 @@ const config = {
         disableSwitch: true,
       },
       navbar: {
-        title: 'My Site',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Hanko Logo',
           src: 'img/logo.svg',
+          href: '/',
         },
         items: [
           {
