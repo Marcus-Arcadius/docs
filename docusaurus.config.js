@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Hanko Documentation',
   tagline: 'Hanko Documentation',
-  url: 'https://docs.hanko.io',
+  url: 'https://teamhanko.github.io/docs/',
   baseUrl: '/docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
