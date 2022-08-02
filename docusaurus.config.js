@@ -52,6 +52,14 @@ const config = {
           hideable: true
         }
       },
+      announcementBar: {
+        id: 'support_us',
+        content:
+          '⚠️ This documentation is currently a work in progress, stay tuned for more content! ⚠️',
+        backgroundColor: '#83ceff',
+        textColor: '#091E42',
+        isCloseable: true,
+      },
       colorMode: {
         defaultMode: 'dark',
         disableSwitch: true,
