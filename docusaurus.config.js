@@ -74,8 +74,10 @@ const config = {
         items: [
           {
             href: 'https://github.com/teamhanko/hanko',
-            label: 'GitHub',
+            title: "Visit us on GitHub!",
             position: 'right',
+            className: 'header-github-link',
+            'aria-label': 'Visit us on GitHub!',
           },
         ],
       },
